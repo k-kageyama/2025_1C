@@ -9,3 +9,5 @@ Wildlife Strike(アメリカ連邦航空局（FAA）が記録した野生動物�
     　webサイト、グラフの製作
     ○片岡竜希
     　このページの製作、リリース担当
+
+©Tatsuki Kataoka
